@@ -1,0 +1,55 @@
+﻿
+# Visual Studio / VS Code files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+out/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Rider IDE
+.idea/
+
+# ASP.NET Core publish folder
+wwwroot/dist/
+wwwroot/build/
+*.publish/
+
+# DotNet temporary files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.db
+
+# User secrets (if any)
+secrets.json
+appsettings.Development.json
+
+# Node / Angular / Frontend
+node_modules/
+dist/
+.angular/
+
+# NPM / Yarn / PNPM logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Scalar specific
+.scalar/
+
+# OS / system files
+.DS_Store
+Thumbs.db
